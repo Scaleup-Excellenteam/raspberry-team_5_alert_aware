@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+tqdm
+Pillow
+scikit-learn
+opencv-python
+dlib
+matplotlib
+datetime
